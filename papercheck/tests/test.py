@@ -9,6 +9,7 @@ def test_check():
         
     try:
         ans = check.calc_similarity_between_two_file(original_article_file_path, plagiarized_article_file_path)
+        ans *= 100
         with open(answer_file_path, 'w', encoding='utf-8') as ans_ouput_file:
             ans_ouput_file.write(f"Answer: {ans:.2f}%")
         print(f"Answer: {ans:.2f}%")
