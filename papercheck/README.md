@@ -4,7 +4,7 @@
 
 | 这个作业属于哪个课程 |        [班级链接](https://edu.cnblogs.com/campus/jmu/ComputerScience21)        |
 | :------------------: | :--------------------------------------------------------------------------: |
-|  这个作业要求在哪里  | [作业要求](https://edu.cnblogs.com/campus/jmu/ComputerScience21/homework/13033) |
+|  这个作业要求在哪里  | [作业要求](https://edu.cnblogs.com/campus/jmu/ComputerScience21/homework/13034) |
 |      作业的目标      |                            设计一个论文查重算法。                            |
 
 ## 作业需求
@@ -68,19 +68,19 @@
 
 |      ****PSP2.1****      | ****Personal Software Process Stages**** | ****预估耗时（分钟）**** | ****实际耗时（分钟）**** |
 | :-----------------------------------: | :--------------------------------------------------: | :----------------------------------: | :----------------------------------: |
-|               Planning               |                         计划                         |                                      |                                      |
-|               Estimate               |               估计这个任务需要多少时间               |                                      |                                      |
-|              Development              |                         开发                         |                                      |                                      |
-|               Analysis               |              需求分析 (包括学习新技术)              |                                      |                                      |
-|              Design Spec              |                     生成设计文档                     |                                      |                                      |
-|             Design Review             |                       设计复审                       |                                      |                                      |
-|            Coding Standard            |        代码规范 (为目前的开发制定合适的规范)        |                                      |                                      |
-|                Design                |                       具体设计                       |                                      |                                      |
-|                Coding                |                       具体编码                       |                                      |                                      |
-|              Code Review              |                       代码复审                       |                                      |                                      |
-|                 Test                 |         测试（自我测试，修改代码，提交修改）         |                                      |                                      |
-|               Reporting               |                         报告                         |                                      |                                      |
-|              Test Repor              |                       测试报告                       |                                      |                                      |
-|           Size Measurement           |                      计算工作量                      |                                      |                                      |
-| Postmortem & Process Improvement Plan |             事后总结, 并提出过程改进计划             |                                      |                                      |
-|                                      |                         合计                         |                                      |                                      |
+|               Planning               |                         计划                         |                  15                  |                  25                  |
+|               Estimate               |               估计这个任务需要多少时间               |                  5                  |                  5                  |
+|              Development              |                         开发                         |                  40                  |                  35                  |
+|               Analysis               |              需求分析 (包括学习新技术)              |                  5                  |                  15                  |
+|              Design Spec              |                     生成设计文档                     |                  5                  |                  5                  |
+|             Design Review             |                       设计复审                       |                  15                  |                  5                  |
+|            Coding Standard            |        代码规范 (为目前的开发制定合适的规范)        |                  4                  |                  6                  |
+|                Design                |                       具体设计                       |                  12                  |                  6                  |
+|                Coding                |                       具体编码                       |                  20                  |                  20                  |
+|              Code Review              |                       代码复审                       |                  5                  |                  5                  |
+|                 Test                 |         测试（自我测试，修改代码，提交修改）         |                  5                  |                  5                  |
+|               Reporting               |                         报告                         |                  10                  |                  20                  |
+|              Test Repor              |                       测试报告                       |                  2                  |                  3                  |
+|           Size Measurement           |                      计算工作量                      |                  4                  |                  5                  |
+| Postmortem & Process Improvement Plan |             事后总结, 并提出过程改进计划             |                  8                  |                  10                  |
+|                                      |                         合计                         |                 155                 |                 170                 |
